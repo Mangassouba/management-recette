@@ -4,7 +4,7 @@
 ## Description
 
 L'application de gestion de recettes permet aux utilisateurs d'ajouter, modifier, supprimer et afficher des recettes de cuisine.
-l'application a été developpeée en utilisant vuejs 3 avec la compostion  API et pinia et bootstrap pour styliser l'interface utilisateur et doit etre deployée sur vercel, conteneurisée avec Docker, et publiée sur Docker Hub.
+l'application a été developpeée en utilisant vuejs 3 avec la compostion  API et pinia et bootstrap pour styliser l'interface utilisateur et doit etre deployée sur vercel.
 
 ## Fonctionnalités
 
@@ -31,10 +31,10 @@ l'application a été developpeée en utilisant vuejs 3 avec la compostion  API 
 
 - Clonez le repository :
 
-        https://github.com/Mangassouba/tp-44-gestionRecette.git
+        https://github.com/Mangassouba/management-recette.git
  - Accédez au dossier du projet
 
-            cd tp-44-gestionRecette
+            cd management-recette
 
 - Installez les dépendances :
 
